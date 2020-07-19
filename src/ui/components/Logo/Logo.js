@@ -1,7 +1,16 @@
 import React from "react";
-//Parts
-import LogoIMG from './images.jpg';
+import './Logo.css';
+import LogoIMG from './Logo.png';
+
+
 function Logo() {
-    return <img src={LogoIMG} alt="" />
+
+    return (
+        <div className="logoClass">
+            <img src={LogoIMG} alt=""/>
+            <span> Booking</span>
+        </div>
+    );
 }
-export default Logo
+
+export default Logo;

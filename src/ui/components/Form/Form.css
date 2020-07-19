@@ -1,0 +1,26 @@
+.formClass{
+    background: #808080;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+Input{
+    background: #808080;
+    margin: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+
+}
+
+
+
+
+.formSearch{
+    background-color: #FF7F50;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    border: 0px;
+    height: 32px;
+}

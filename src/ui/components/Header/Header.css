@@ -1,4 +1,18 @@
-.headerClass{
-    background: grey;
-    border: 10px solid orange;
+.headerClass {
+    background: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.buttonClass {
+    margin: 20px;
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+.buttonClass-item{
+    border-radius: 5px;
+    margin: 5px;
+    border: 0px;
 }
