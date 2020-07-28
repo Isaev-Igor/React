@@ -7,7 +7,7 @@ function Logo() {
 
     return (
         <div className="logoClass">
-            <img src={LogoIMG} alt=""/>
+            <img className="logo" src={LogoIMG} alt=""/>
             <span> Booking</span>
         </div>
     );

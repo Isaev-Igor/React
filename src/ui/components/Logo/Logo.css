@@ -2,15 +2,16 @@
     display: flex;
     background: #ffffff;
     color: #FF7F50;
-    padding: 20px;
+    padding: 0px;
 }
 
 span {
     color: #FF7F50;
     font-size: 32px;
 }
-img{
+.logo{
     height: 54px;
+    width: 54px;
     color: #FF7F50;
 }
 
